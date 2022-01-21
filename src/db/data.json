@@ -1,0 +1,64 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    }
+  ],
+  "words": [
+    {
+      "id": 2,
+      "day": 1,
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "day": 2,
+      "eng": "cat",
+      "kor": "고양이",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "day": 3,
+      "eng": "dog",
+      "kor": "강아지",
+      "isDone": false
+    },
+    {
+      "day": "1",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false,
+      "id": 6
+    },
+    {
+      "day": "2",
+      "eng": "computer",
+      "kor": "컴퓨터",
+      "isDone": false,
+      "id": 7
+    },
+    {
+      "day": "4",
+      "eng": "tiger",
+      "kor": "호랑이",
+      "isDone": false,
+      "id": 8
+    }
+  ]
+}
